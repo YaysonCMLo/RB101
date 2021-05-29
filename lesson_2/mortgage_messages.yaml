@@ -1,0 +1,12 @@
+loan_amt: 'Loan Amount'
+int_yr: 'Annual Percentage Rate (include decimals)'
+dur_year: 'Loan duration (full years)'
+dur_yr_partial: 'Are there any additional months (i.e. partial years). Y if yes'
+dur_mnth: 'Loan duration (months in partial year)'
+
+mnth_pay: '==> Your monthly payment is'
+tot_cost: '==> Total cost of the loan is'
+tot_int: '==> You are paying'
+
+invalid: 'Invalid entry, please try again'
+name?: 'Welcome, please enter your name'
